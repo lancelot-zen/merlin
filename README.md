@@ -1,4 +1,4 @@
-### Merlin
+# Merlin
 
 A Generatively Pretrained Transformer that generates Shakespeare-eque quotes.
 
